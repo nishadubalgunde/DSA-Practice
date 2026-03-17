@@ -5,7 +5,7 @@ This folder contains solutions to important array problems from basic to interme
 ---
 
 ##  Topics Covered
-
+- Two Sum 
 - Largest Element in Array
 - Second Largest Element
 - Reverse Array
